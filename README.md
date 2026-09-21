@@ -223,4 +223,4 @@ Garden Planner is the **full free version** with **all features** and **updates 
 Ready to create the garden of your dreams? **Download Garden Planner now and start designing today!**
 
 ---
-**Last updated:** 2026-09-21 16:16:59 UTC
+**Last updated:** 2026-09-21 20:49:53 UTC
